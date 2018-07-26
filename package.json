@@ -1,0 +1,15 @@
+{
+  "name": "vuepress",
+  "version": "0.0.1",
+  "description": "文档整理",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^0.12.0"
+  }
+}
