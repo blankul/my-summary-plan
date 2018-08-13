@@ -4,7 +4,8 @@ module.exports = {
   themeConfig: {
     sidebar: [
       ["/webpack/", "webpack"],
-      ["/interview/", "interview"]
+      ["/interview/", "interview"],
+      ["/QA/", "QA"]
     ],
     displayAllHeaders: true
   }
