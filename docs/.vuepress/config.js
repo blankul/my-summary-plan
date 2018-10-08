@@ -5,7 +5,8 @@ module.exports = {
     sidebar: [
       ["/webpack/", "webpack"],
       ["/interview/", "interview"],
-      ["/QA/", "QA"]
+      ["/QA/", "QA"],
+      ["/resume/", "resume"]
     ],
     displayAllHeaders: true
   }
