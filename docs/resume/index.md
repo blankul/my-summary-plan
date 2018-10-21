@@ -40,13 +40,14 @@
 - ***一件事血缘系统 (2018-05 ~ 2018-10)***  
   > 以“一件事”为源头, 梳理办事事项, 提交材料的关系, 提升公务管理人员的效率，响应“最多跑一次”政策, 主要模块: 概览, 材料梳理, 数据梳理, 资源管理, 一件事管理, 数据串管理, 系统维护
 
-  独自负责整个系统的开发维护(`react, less, dva, roadhog, dtd, antv/g2,g6`), 并带领实习生同学完成以下模块：概览, 材料梳理, 数据梳理, 资源管理, 一件事管理, 数据串管理, 系统维护...
+  独自负责整个系统的开发维护(`react, less, dva, roadhog, dtd, antv/g2,g6`), 并负责实习生的工作分配, 逐渐熟悉了react的开发模式, 提升了组件抽象能力
 - ***(浙江, 河南, 青岛, 辽宁, 吴江)政务服务APP及管理系统 (2017-03 ~ 2018-04)***  
   > 多个地区的政务App的中台管理系统: 新闻管理, 微应用管理, 内容管理, 版本管理, 埋点管理, 用户管理...
 
   主要负责:  
-  web管理系统(`handlebars, jquery, sass, gulp, bootstrap`);  
+  web管理系统(`handlebars, jquery, sass, gulp, bootstrap`), 熟练掌握dom操作;  
   埋点管理系统(`echarts`), 埋点jssdk编写;  
-  嵌入移动端web页面(`vue, vue-router, vuex, mint-ui, vimo, jsbridge`): 微应用办事指南, 积分管理, 新闻, 专题... 的开发与维护,  
-  活动页面(投票，问卷), app下载页面 简单的脚手架搭建与开发（`webpack, parcel`）  
+  嵌入移动端web页面(`vue, vue-router, vuex, mint-ui, vimo, jsbridge`): 微应用办事指南, 积分管理, 新闻, 专题, 活动页面(投票，问卷)... 的开发与维护, 熟练掌握vue的特性, 开发模式, app下载页面 简单的脚手架搭建与开发（`webpack, parcel`）  
   `ps: 持续时间较长, 中间有不断的版本迭代，新需求加入`;  
+
+<img src="./photo.jpg" style="width: 140px; position: fixed"/>
